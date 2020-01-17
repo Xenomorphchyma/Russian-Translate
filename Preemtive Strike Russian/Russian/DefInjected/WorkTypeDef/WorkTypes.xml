@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Recon.label>Разведка</Recon.label>
+  <Recon.description>Выполняйте часовую работу в колонии, проводите разведку окрестностей и обнаруживайте приближающегося врага</Recon.description>
+  <Recon.labelShort>Разведка</Recon.labelShort>
+  <Recon.pawnLabel>Часовой</Recon.pawnLabel>
+  <Recon.gerundLabel>быть на посту</Recon.gerundLabel>
+  <Recon.verb>Постовое дежурства</Recon.verb>
+
+
+</LanguageData>

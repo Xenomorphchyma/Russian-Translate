@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PES_PrimitiveTower.label>Примитивная конструкция башен</PES_PrimitiveTower.label>
+  <PES_PrimitiveTower.description>Стройте примитивные сторожевые башни, чтобы обеспечить базовые разведывательные способности.</PES_PrimitiveTower.description>
+
+
+  <!-- Видимо что-то новое <PES_Astrology.label>Астрология</PES_Astrology.label> -->
+  <!-- <PES_MindOverMatter.label>Разум над делом</PES_MindOverMatter.label> -->
+
+  <PES_ModernTower.label>Современная сторожевая башня</PES_ModernTower.label>
+  <PES_ModernTower.description>Постройте современные сторожевые башни, которые обеспечивают лучшую разведывательную способность колонии и могут быть установлены с различными улучшениями.</PES_ModernTower.description>
+
+
+  <!-- <PES_FoodSupply.label>Дозорный продукт питания</PES_FoodSupply.label> -->
+  <!-- <PES_FoodSupply.description>Установите мини-дозатор питательной пасты в сторожевой башне, чтобы обеспечить едой стражей.</PES_FoodSupply.description> -->
+
+  <PES_JoyRadio.label>Развлекательное радио</PES_JoyRadio.label>
+  <PES_JoyRadio.description>Установите радио в сторожевых башнях, чтобы обеспечить отдых для стражей.</PES_JoyRadio.description>
+
+  <PES_SearchLight.label>Передовые технологии освещения</PES_SearchLight.label>
+  <PES_SearchLight.description>Установите прожектор в сторожевой башне, чтобы его можно было использовать ночью.</PES_SearchLight.description>
+
+  <PES_SkyIDL.label>Идентификация большого небесного объекта</PES_SkyIDL.label>
+  <PES_SkyIDL.description>Разблокируйте способность колонии распознавать крупные объекты неба, такие как куски кораблей и метеориты, и прогнозировать их ударную позицию, что может помочь колонии уменьшить некоторые потери.</PES_SkyIDL.description>
+
+  <PES_RADAR.label>Радиообнаружение и определение дальности</PES_RADAR.label>
+  <PES_RADAR.description>Постройте радар, беспилотное разведывательное здание, обеспечивающее большую дальность обнаружения.</PES_RADAR.description>
+
+  <PES_SkyIDS.label>Идентификация малых небесных объектов</PES_SkyIDS.label>
+  <PES_SkyIDS.description>Разблокируйте способность колонии распознавать небольшие небесные объекты, такие как транспортные капсулы, и прогнозировать их положение удара, что может помочь колонии уменьшить некоторые потери.</PES_SkyIDS.description>
+
+  <PES_InfestationDetection.label>Система раннего оповещения о землетрясениях</PES_InfestationDetection.label>
+  <PES_InfestationDetection.description>Добавьте возможность обнаружения заражения в сканер, проникающий сквозь землю.</PES_InfestationDetection.description>
+
+  <PES_SentryArray.label>Разведывательные беспилотники</PES_SentryArray.label>
+  <PES_SentryArray.description>Постройте множество беспилотных летательных аппаратов, идеальный разведывательный комплекс, обеспечивающий большой радиус действия</PES_SentryArray.description>
+
+  <PES_Satellite.label>Спутниковая связь</PES_Satellite.label>
+  <PES_Satellite.description>Постройте разведывательный спутник восходящей линии связи, идеальный разведывательный комплекс, обеспечивающий огромный диапазон обнаружения</PES_Satellite.description>
+
+
+</LanguageData>

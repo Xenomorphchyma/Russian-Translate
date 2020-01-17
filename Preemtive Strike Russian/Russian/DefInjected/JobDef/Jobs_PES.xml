@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PES_StandGuard.reportString>Постоянный охранник на TargetA.</PES_StandGuard.reportString>
+  <PES_OperateSentryArray.reportString>Контроль беспилотной разведки на TargetA.</PES_OperateSentryArray.reportString>
+  <PES_Job_InstallUpgrade.reportString>Установка обновления на TargetA.</PES_Job_InstallUpgrade.reportString>
+  <PES_Job_RefuelByNutrition.reportString>дозаправка TargetA.</PES_Job_RefuelByNutrition.reportString>
+
+
+</LanguageData>

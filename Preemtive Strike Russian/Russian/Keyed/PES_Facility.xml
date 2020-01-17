@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_Building_Installed>Установленное обновление: </PES_Building_Installed>
+  <PES_Building_ToInstall>Установка: {0}</PES_Building_ToInstall>
+  <PES_Building_UpdateInstalling>Установка обновления: {0}\nПрогресс: {1}%</PES_Building_UpdateInstalling>
+  <PES_Building_Delivered>Доставлен: {0}</PES_Building_Delivered>
+  <PES_Building_UnUsableDark>Не используется, когда темно.</PES_Building_UnUsableDark>
+  <PES_Building_UnUsableSolarFlare>Сигнал заклинило от солнечной вспышки.</PES_Building_UnUsableSolarFlare>
+
+</LanguageData>

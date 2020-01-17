@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PES_RaidingCaravan.label>Входящий Объект</PES_RaidingCaravan.label>
+  <PES_RaidingCaravan.description>Эта толпа или/и группа животных была обнаружена системой разведки в нашей колонии. Для получения более подробной информации, проверьте отчет о безопасности.</PES_RaidingCaravan.description>
+
+  <PES_RaidingCaravan_Simple.label>Входящий Объект</PES_RaidingCaravan_Simple.label>
+  <PES_RaidingCaravan_Simple.description>Эта толпа или/и группа животных была обнаружена системой разведки в нашей колонии. Для получения более подробной информации, проверьте отчет о безопасности.</PES_RaidingCaravan_Simple.description>
+
+
+</LanguageData>

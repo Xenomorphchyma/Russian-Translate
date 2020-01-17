@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_Intention_Raid>Рейд</PES_Intention_Raid>
+  <PES_Intention_TradeCaravan>Торговый караван</PES_Intention_TradeCaravan>
+  <PES_Intention_Traveler>Путешественник</PES_Intention_Traveler>
+  <PES_Intention_Visitor>Гости</PES_Intention_Visitor>
+  <PES_Intention_AlphaBeavers>Дендровористые бобры</PES_Intention_AlphaBeavers>
+  <PES_Intention_FarmAnimalsWanderIn>Присоединение к колонии</PES_Intention_FarmAnimalsWanderIn>
+  <PES_Intention_HerdMigration>Миграция Стада</PES_Intention_HerdMigration>
+  <PES_Intention_ManHunterPack>Охотник за людьми</PES_Intention_ManHunterPack>
+  <PES_Intention_ThrumboPass>Редкие Трумбо</PES_Intention_ThrumboPass>
+
+  <PES_Intention_RaidInGroups>(В группах)</PES_Intention_RaidInGroups>
+
+  <PES_RaidGoalName_Rescue>Спасение заключенного</PES_RaidGoalName_Rescue>
+  <PES_RaidGoalName_Despoil>Грабёж</PES_RaidGoalName_Despoil>
+  <PES_RaidGoalName_Revenge>Месть</PES_RaidGoalName_Revenge>
+  <PES_RaidGoalName_Enslave>Похищение колонистов</PES_RaidGoalName_Enslave>
+  <PES_RaidGoalName_Conquer>Завоевывание</PES_RaidGoalName_Conquer>
+  <PES_RaidGoalName_Extortion>Вымогательство</PES_RaidGoalName_Extortion>
+  <PES_RaidGoalName_Smite>УДАР</PES_RaidGoalName_Smite>
+  <PES_RaidGoalName_Extermination>ИСТРЕБЛЕНИЕ</PES_RaidGoalName_Extermination>
+
+  <PES_Strategy_Normal>Пряма атака</PES_Strategy_Normal>
+  <PES_Strategy_Sapper>Саперы</PES_Strategy_Sapper>
+  <PES_Strategy_Smart>Умная атака</PES_Strategy_Smart>
+  <PES_Strategy_Siege>Осада</PES_Strategy_Siege>
+  <PES_Strategy_Stage>Подготовка перед атакой</PES_Strategy_Stage>
+
+  <PES_AnimalType_Unknown>Неопознанный тип животных</PES_AnimalType_Unknown>
+
+  <PES_Unknown_SkyObject_Large>Неопознанный Большой Небесный Объект</PES_Unknown_SkyObject_Large>
+  <PES_Unknown_SkyObject_Small>Неопознанный Маленький Небесный Объект</PES_Unknown_SkyObject_Small>
+  <PES_Skyfaller_raid>Прибывает Штурмовой Вражеский Десант</PES_Skyfaller_raid>
+  <PES_Skyfaller_Meteorite>Падающий Метеорит</PES_Skyfaller_Meteorite>
+  <PES_Skyfaller_ResourcePod>Прибывают Транспортные Капсулы</PES_Skyfaller_ResourcePod>
+  <PES_Skyfaller_RefugeePod>Прибывает Капсула с Беженцем</PES_Skyfaller_RefugeePod>
+  <PES_Skyfaller_ShipChunk>Обломки Падающего Корабля</PES_Skyfaller_ShipChunk>
+  <PES_Skyfaller_ShipPart>Падающая Древняя Часть Корабля</PES_Skyfaller_ShipPart>
+
+  <PES_Infestation_Title>Оповещение о Заражении</PES_Infestation_Title>
+
+  <PES_Unknown_HumanCrowd>Толпа Неопознанных Людей</PES_Unknown_HumanCrowd>
+  <PES_Unknown_AnimalHerd>Стадо Неопознанных Животных</PES_Unknown_AnimalHerd>
+
+</LanguageData>

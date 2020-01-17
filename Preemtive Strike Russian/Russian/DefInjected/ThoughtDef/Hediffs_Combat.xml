@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PES_CombatFervor_Thought.stages.0.label>Боевая Страсть</PES_CombatFervor_Thought.stages.0.label>
+  <PES_CombatFervor_Thought.stages.0.description>Для меня большая честь сражаться до смерти за свободу колонии.</PES_CombatFervor_Thought.stages.0.description>
+
+  <PES_CombatTiredness_Thought.stages.0.label>Устал от боя</PES_CombatTiredness_Thought.stages.0.label>
+  <PES_CombatTiredness_Thought.stages.0.description>Мы могли бы избежать этого боя, но теперь мы можем получить травму или даже умереть. Это бессмысленный бой.</PES_CombatTiredness_Thought.stages.0.description>
+
+
+</LanguageData>

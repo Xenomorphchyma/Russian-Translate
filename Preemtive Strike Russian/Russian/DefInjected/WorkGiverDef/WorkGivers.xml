@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PES_StandGuard.label>Стоять на страже на сторожевой башни</PES_StandGuard.label>
+  <PES_StandGuard.verb>Стоять на страже</PES_StandGuard.verb>
+  <PES_StandGuard.gerund>Стоит на страже</PES_StandGuard.gerund>
+
+  <PES_OperateSentryArray.label>Контроль консоли сторожевого множества дронов</PES_OperateSentryArray.label>
+  <PES_OperateSentryArray.verb>Контроль</PES_OperateSentryArray.verb>
+  <PES_OperateSentryArray.gerund>Контролирует</PES_OperateSentryArray.gerund>
+
+  <PES_InstallUpgrade.label>Установить обновление в разведывательных зданиях</PES_InstallUpgrade.label>
+  <PES_InstallUpgrade.verb>Обновить</PES_InstallUpgrade.verb>
+  <PES_InstallUpgrade.gerund>Обновление</PES_InstallUpgrade.gerund>
+
+  <PES_Refuel.label>Заправлять разведывательные объекты</PES_Refuel.label>
+  <PES_Refuel.verb>Заправлять</PES_Refuel.verb>
+  <PES_Refuel.gerund>Заправляет</PES_Refuel.gerund>
+
+
+</LanguageData>

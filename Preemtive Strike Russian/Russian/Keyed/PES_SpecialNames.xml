@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal herd -->
+  <PES_ManHunterName_1>Хищная {0} Стая</PES_ManHunterName_1>
+  <PES_ManHunterName_2>Паникующая {0} Стая</PES_ManHunterName_2>
+  <PES_ManHunterName_3>Устрашающая {0} Стая</PES_ManHunterName_3>
+  <PES_ManHunterName_4>Пожирающая{0} Стая</PES_ManHunterName_4>
+
+  <!-- Mechanoids -->
+  <PES_MechName_1>Блок Ликвидации {0}</PES_MechName_1>
+  <PES_MechName_2>Блок Уничтожения {0}</PES_MechName_2>
+  <PES_MechName_3>Блок Стирания {0}</PES_MechName_3>
+  <PES_MechName_4>{0} Вычеркиватели</PES_MechName_4>
+  <PES_MechName_5>Блок Истребления {0}</PES_MechName_5>
+
+  <!-- Farm Animal -->
+  <PES_FarmAnimal_1>Послушная {0} Стая</PES_FarmAnimal_1>
+
+  <!-- Migrating -->
+  <PES_MigrationName_1>Мигрирующее стадо {0}</PES_MigrationName_1>
+
+  <!-- Thurmbo -->
+  <PES_Thrumboname_1>Редкие блуждающие Трумбо</PES_Thrumboname_1>
+
+  <!-- Traveler-->
+  <PES_TravelerName_1>Путешественники из {0}</PES_TravelerName_1>
+
+  <!-- Visitor -->
+  <PES_VisitorName_1>Гости из {0}</PES_VisitorName_1>
+
+  <!-- Trader -->
+  <PES_TraderName_1>Торговый Караван От {0}</PES_TraderName_1>
+
+</LanguageData>
